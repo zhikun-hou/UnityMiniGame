@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+    <talk>圣诞节，以往姐弟两人都是与家人一起装点房子、圣诞树，然后与家人一起唱圣诞歌、共进晚餐。但是这一次弟弟想换一种方式来庆祝。</talk>
+    <talk name="弟弟" emotion="难过">这次想要和朋友一起用不一样的方式庆祝，该怎么计划呢？</talk>
+    <talk name="姐姐" emotion="高兴">万圣节换装扮的游戏很有意思啊，要不试试？</talk>
+    <talk name="弟弟" emotion="高兴">咦，是个好主意！那我该怎么装扮呢？</talk>
+    <talk name="姐姐" emotion="高兴">装扮成巫师怎么样？</talk>
+    <talk name="弟弟" emotion="高兴">母亲的披肩可以作为巫师的披风！多酷！</talk>
+    <talk name="姐姐" emotion="高兴">巫师要是有个大的魔法水晶球就更好了。</talk>
+    <talk name="弟弟" emotion="高兴">父亲的淡蓝色水晶球也可以派上用场！</talk>
+    <talk name="姐姐" emotion="高兴">小心啊，这可是父亲的最爱，弄坏了可就麻烦了…</talk>
+    <talk name="弟弟" emotion="高兴">放心放心！</talk>
+    <talk name="姐姐" emotion="高兴">是巫师，就该有手杖与水晶球匹配！</talk>
+    <talk name="弟弟" emotion="高兴">可是…没有手杖啊。</talk>
+    <talk name="姐姐" emotion="高兴">交给我！</talk>
+    <talk name="姐姐" emotion="高兴">我会折星星，将星星与树枝接起来就是手杖啦。</talk>
+    <talk name="弟弟" emotion="难过">姐姐，我觉得巫师还缺一个魔法阵啊，再帮我做一个魔法阵吧！姐姐最好了！</talk>
+    <talk name="姐姐" emotion="难过">好吧，谁让你是我最爱的弟弟呢？</talk>
+</script>
